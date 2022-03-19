@@ -1,0 +1,7 @@
+name: LeavesDecayHandler
+version: '${project.version}'
+main: leavesdecayhandler.leavesdecayhandler.LeavesDecayHandler
+api-version: 1.18
+authors: [ skh6075 ]
+description: Prevents leaves from disappearing
+website: https://github.com/skh6075
